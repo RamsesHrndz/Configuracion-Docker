@@ -1,5 +1,8 @@
 name: CI/CD
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches: [main]
@@ -42,4 +45,3 @@ jobs:
       - name: Push image
         run: |
           docker push ramses25/dockergithubactions:latest
-          
