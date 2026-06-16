@@ -24,4 +24,3 @@ jobs:
 
       - name: Verify image exists
         run: docker image ls rpg-name-generator:bake-test
-        
