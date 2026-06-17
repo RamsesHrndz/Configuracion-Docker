@@ -1,7 +1,7 @@
 const racePrefixes = {
 	Human: ['Jon', 'Ari', 'Mar', 'Cal', 'Eli', 'Dar', 'Sam', 'Tom', 'Nia', 'Leo'],
 	Elf: ['Ela', 'Fin', 'Gal', 'Sil', 'Ael', 'Tho', 'Lir', 'Vel', 'Zir', 'Nil'],
-	Dwarf: ['Bor', 'Dur', 'Thro', 'Gim', 'Kil', 'Uth', 'Var', 'Bri', 'Kaz', 'Mol']
+	Dwarf: ['Bor', 'Dur', 'Thro', 'Gim', 'Kil', 'Ut', 'Var', 'Bri', 'Kaz', 'Mol']
 };
 
 const classSuffixes = {
